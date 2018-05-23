@@ -1,0 +1,27 @@
+#root {
+    text-align: center;
+    margin: 3rem;
+    padding: 3rem;
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 0.5rem;
+}
+.recharts-wrapper {
+    margin: auto;
+}
+.buttons {
+    margin-bottom: 3rem;
+}
+button {
+    background-color: lightgray;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    font-size: 1rem;
+    margin: 1rem;
+    padding: 1rem;
+    opacity: 0.8;
+}
+button:hover {
+    opacity: 1;
+}
